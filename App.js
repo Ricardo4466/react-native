@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Image source={require('./assets/MKOM_Simbolo_Pos_RGB_Verm.png')}
         style={{
-          marginBottom: 20
+          marginBottom: 21
         }}
       />
       <Text style={{
